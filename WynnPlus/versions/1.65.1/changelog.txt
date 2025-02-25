@@ -1,0 +1,20 @@
+- Removed Remove Reloading Screen
+- Removed Fadeless
+- Removed Dynamic FPS (No longer needed as vanilla has it)
+- Updated Voices of Wynn
+- Updated Subtle Effects
+- Updated Fancy Menu
+- Updated Falling Leaves
+- Updated Wynntils
+- Updated Architectury
+- Updated Very Many Players
+- Updated Creative Core
+- Updated Talk Balloons
+- Updated Ambient Sounds
+- Updated Iris Shaders
+- Updated No Dynamic FPS (To have the option to disable reduce FPS)
+- Updated MoreCulling
+- Updated Lithium
+- Updated Sodium
+- Updated Fabric API
+- Updated BSL Shaders
