@@ -2,6 +2,14 @@
     "schemaVersion": 1,
     "hotfixesFormat": null,
     "versions": [
-   
+   {
+        "id": "1.65",
+        "releasedAt": 1740509580000,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/wynncraft-plus/files/6231890"
+            }
+        }
+    }
     ]
   }
