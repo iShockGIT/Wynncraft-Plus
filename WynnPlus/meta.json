@@ -3,11 +3,11 @@
   "hotfixesFormat": null,
   "versions": [
  {
-        "id": "1.65",
-        "releasedAt": 1740509580000,
+        "id": "1.65.1",
+        "releasedAt": 1740519000000,
         "promotions": {
             "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/wynncraft-plus/files/6231890"
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/wynncraft-plus/files"
             }
         }
     }
